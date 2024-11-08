@@ -38,7 +38,7 @@ EOF
 chmod +x start3.sh
 
 echo "setup nearly complete."
-echo "Edit the config with \"nano ~/ccminer/config.json\""
+echo "Edit the config with \"nano ~/ccminer/config_luckpool.json\""
 
 echo "go to line 15 and change your worker name"
 echo "use \"<CTRL>-x\" to exit and respond with"
